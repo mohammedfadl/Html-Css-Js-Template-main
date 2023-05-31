@@ -286,7 +286,7 @@ ul {
   transform-origin: top left;
 }
 .landing .container {
-  min-height: calc(144vh - 8px);
+  min-height: calc(144vh - 20px);
   display: flex;
   align-items: center;
   padding-bottom: 120px;
