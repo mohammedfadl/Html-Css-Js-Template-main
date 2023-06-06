@@ -1472,7 +1472,7 @@ ul {
 .footer .box .line {
   display: flex;
   align-items: center;
-  color: #b9b9b9;
+  color: #fff;
   margin-bottom: 30px;
 }
 @media (max-width: 767px) {
@@ -1481,8 +1481,8 @@ ul {
   }
 }
 .footer .box .line i {
-  font-size: 25px;
-  color: var(--main-color);
+  font-size: 45px;
+  color: #fff;
   margin-right: 10px;
 }
 @media (max-width: 767px) {
@@ -1492,7 +1492,7 @@ ul {
   }
 }
 .footer .box .line .info {
-  line-height: 1.7;
+  line-height: 3.7;
   flex: 1;
 }
 .footer .box .line .info span {
